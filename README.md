@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rebran Natanael</h1>
 <h3 align="center">A passionate Data Scientist. Graduate from Telkom University and Hacktiv8</h3>
 
-- 🌱 I’m currently learning **Django, Selenium**
+- 🌱 I’m currently learning **Data Engineer Things**
 
 - 📫 How to reach me **rebrannatanael@gmail.com**
 
